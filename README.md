@@ -23,7 +23,7 @@
 >HTML / CSS / JavaScript  / EJS  
 >Node.js / Express / MySQL / Sequelize
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/nyondoo/mileeasy.git) 참고
 
 ---
 
