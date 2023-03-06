@@ -4,7 +4,7 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+첫 직장에서 사내 프로그램을 사용하다가, 프로그램을 만들고 싶어져 개발을 배우게 되었습니다.
 
 </br>
 
@@ -16,26 +16,26 @@
 
 ## :pushpin: Projects
 ### 1. [MileEASY](http://43.201.17.158:8080)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2022.
+>MBTI별 여행지 추천 서비스 (팀 프로젝트)  
+>개발 기간: 2022.12.08 ~ 2022.12.29
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>HTML / CSS / JavaScript  / EJS
+>Node.js / Express / MySQL / Sequelize
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 ---
 
 ### 2. [출근도장](http://43.201.17.158:3000)
->아르바이트 출근&월급 관리  (개인 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+>아르바이트 출근&월급 관리 (개인 프로젝트)  
+>개발 기간: 2023.01.28 ~ 2023.02.04  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>React / React-redux 
+>Node.js / Express / MySQL / Sequelize 
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/nyondoo/Check-Work) 참고
 
 ---
 
@@ -44,7 +44,7 @@
 >개발 기간: 2018.1.18 ~ 2018.4.5  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>React / Recoil / React-Query
+>Node.js / Express / MySQL / Sequelize  
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
