@@ -15,7 +15,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [MileEASY](bit.ly/3ZGbquV)
+### 1. [MileEASY](http://43.201.17.158:8080)
 >고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
 >개발 기간: 2022.
 >  
