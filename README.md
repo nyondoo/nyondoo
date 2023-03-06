@@ -20,7 +20,7 @@
 >개발 기간: 2022.12.08 ~ 2022.12.29
 >  
 >기술 스택:  
->HTML / CSS / JavaScript  / EJS. 
+>HTML / CSS / JavaScript  / EJS  
 >Node.js / Express / MySQL / Sequelize
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
@@ -32,7 +32,7 @@
 >개발 기간: 2023.01.28 ~ 2023.02.04  
 >  
 >기술 스택:  
->React / React-redux. 
+>React / React-redux  
 >Node.js / Express / MySQL / Sequelize 
 >  
 >[프로젝트 상세 설명](https://github.com/nyondoo/Check-Work) 참고
@@ -41,10 +41,10 @@
 
 ### 3. [Momoa](http://43.201.17.158:3001)
 >가계부 (팀 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+>개발 기간: 2023.02.11 ~ 2023.02.25 
 >  
 >기술 스택:  
->React / Recoil / React-Query. 
+>React / Recoil / React-Query  
 >Node.js / Express / MySQL / Sequelize  
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
