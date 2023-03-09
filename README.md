@@ -19,7 +19,7 @@
 >개발 기간: 2022.12.08 ~ 2022.12.29
 >  
 >기술 스택:  
->JavaScript  / EJS  
+>JavaScript(ES6)  / EJS  
 >Node.js / Express / MySQL / Sequelize
 >  
 >[프로젝트 상세 설명](https://github.com/nyondoo/mileeasy.git) 참고
