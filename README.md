@@ -17,15 +17,16 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [MileEASY](http://43.201.17.158:8080)
->MBTI별 여행지 추천 서비스 (팀 프로젝트)  
->개발 기간: 2022.12.08 ~ 2022.12.29
+
+### 1. [Momoa](http://43.201.17.158:3001)
+>가계부 (팀 프로젝트)  
+>개발 기간: 2023.02.11 ~ 2023.02.25 
 >  
 >기술 스택:  
->JavaScript(ES6)  / EJS  
->Node.js / Express / MySQL / Sequelize
+>React / Recoil / React-Query  
+>Node.js / Express / MySQL / Sequelize  
 >  
->[프로젝트 상세 설명](https://github.com/nyondoo/mileeasy.git) 참고
+>[프로젝트 상세 설명](https://github.com/nyondoo/momoa) 참고
 
 ---
 
@@ -41,12 +42,16 @@
 
 ---
 
-### 3. [Momoa](http://43.201.17.158:3001)
->가계부 (팀 프로젝트)  
->개발 기간: 2023.02.11 ~ 2023.02.25 
+### 3. [MileEASY](http://43.201.17.158:8080)
+>MBTI별 여행지 추천 서비스 (팀 프로젝트)  
+>개발 기간: 2022.12.08 ~ 2022.12.29
 >  
 >기술 스택:  
->React / Recoil / React-Query  
->Node.js / Express / MySQL / Sequelize  
+>JavaScript(ES6)  / EJS  
+>Node.js / Express / MySQL / Sequelize
 >  
->[프로젝트 상세 설명](https://github.com/nyondoo/momoa) 참고
+>[프로젝트 상세 설명](https://github.com/nyondoo/mileeasy.git) 참고
+
+
+
+
