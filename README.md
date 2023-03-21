@@ -20,14 +20,14 @@
 
 ### 1. Momoa
 - DEMO : (http://43.201.17.158:3001)
->가계부 (팀 프로젝트)  
->개발 기간: 2023.02.11 ~ 2023.02.25 
+>공유 가계부 (팀 프로젝트)  
+>- 개발 기간: 2023.02.11 ~ 2023.02.25 
 >  
->기술 스택:  
+>- 기술 스택:  
 >Node.js / Express / MySQL / Sequelize
 >React / Recoil / React-Query    
 >
->ERD 설계
+>- ERD 설계
 >
 ><img width="764" src="https://user-images.githubusercontent.com/116782318/221226448-e03cc19f-1242-492b-8663-7688ef9b2b6d.png">
 >
