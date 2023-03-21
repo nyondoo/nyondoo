@@ -24,11 +24,11 @@
 >개발 기간: 2023.02.11 ~ 2023.02.25 
 >  
 >기술 스택:  
->React / Recoil / React-Query  
->Node.js / Express / MySQL / Sequelize  
+>Node.js / Express / MySQL / Sequelize
+>React / Recoil / React-Query    
 >
 >ERD 설계
-<img width="764" src="https://user-images.githubusercontent.com/116782318/221226448-e03cc19f-1242-492b-8663-7688ef9b2b6d.png">
+><img width="764" src="https://user-images.githubusercontent.com/116782318/221226448-e03cc19f-1242-492b-8663-7688ef9b2b6d.png">
 >
 >[프로젝트 상세 설명](https://github.com/nyondoo/momoa) 참고
 
