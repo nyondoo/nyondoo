@@ -10,6 +10,12 @@
 
 </br>
 
+## Skills
+#339933
+
+
+</br>
+
 ## :pushpin: Contact
 - 이메일: nyondooev@gmail.com
 - 깃헙: https://github.com/nyondoo
