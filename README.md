@@ -11,7 +11,7 @@
 </br>
 
 ## Skills
-#339933
+<img src="https://img.shields.io/badge/Node.js-#339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
 
 </br>
