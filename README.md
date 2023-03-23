@@ -1,31 +1,34 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&&fontSize=50&fontAlign=70&text=Portfolio_Hyunsoo&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&&fontSize=70&fontAlign=80&text=Hello&fontAlignY=40&height=300&desc=Portfolio_Hyunsoo&descAlignY=55&descAlign=80)
+
+<div align=center>
+<h3>:book: Intro</h3>
+첫 직장에서 사내 프로그램을 사용하다가, 프로그램을 만들고 싶어져 개발을 배우게 되었습니다.
+
+Node.js기반의 백엔드 직무에 관심이 있습니다.
 
 </br>
 
-## :pushpin: Intro
-첫 직장에서 사내 프로그램을 사용하다가, 프로그램을 만들고 싶어져 개발을 배우게 되었습니다.  
-은행 근무 당시 송금의뢰 접수업무 중, 고객들이 작성한 은행명을 일일이 확인하며 은행 코드로 바꾸어 입력해야 했습니다.  
-이러한 시스템을 처음부터 고객이 은행명을 선택하면, 은행 코드값이 입력되게끔 바꾸면 좋겠다는 생각을 했습니다.  
-이것이 계기가 되어 개발 직무에 관심을 갖게 되었습니다.  
-
-</br>
-
-## Skills
+<h3>:books: Skills</h3>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+  </br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+  </br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   
 </br>
+</br>
+<h3>:telephone_receiver: Contact</h3>
+Email: nyondooev@gmail.com
 
-## :pushpin: Contact
-- 이메일: nyondooev@gmail.com
-- 깃헙: https://github.com/nyondoo
-
+gitHub: https://github.com/nyondoo
+</div>
+</br>
 </br>
 
-## :pushpin: Projects
+## :open_file_folder: Projects
 
 ### 1. Momoa
 >공유 가계부 (팀 프로젝트)  
