@@ -35,7 +35,7 @@
 >- 개발 기간: 2023.02.11 ~ 2023.02.25 
 >  
 >- 기술 스택:  
->Node.js / Express / MySQL / Sequelize
+>Node.js / Express / MySQL / Sequelize  
 >React / Recoil / React-Query    
 >
 >- ERD 설계
@@ -53,9 +53,9 @@
 > 
 >- 개발 기간: 2023.01.28 ~ 2023.02.04  
 >  
->- 기술 스택:  
->React / React-redux  
->Node.js / Express / MySQL / Sequelize 
+>- 기술 스택:    
+>Node.js / Express / MySQL / Sequelize  
+>React / React-redux
 >  
 >[프로젝트 상세 설명](https://github.com/nyondoo/Check-Work) 참고
 
