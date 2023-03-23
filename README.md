@@ -1,4 +1,4 @@
-# 장현수 포트폴리오
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&&fontSize=50&fontAlign=70&text=Portfolio_Hyunsoo&height=200)
 
 </br>
 
@@ -32,16 +32,28 @@
 >
 >- DEMO : (http://43.201.17.158:3001)
 >
->- 개발 기간: 2023.02.11 ~ 2023.02.25 
->  
->- 기술 스택:  
->Node.js / Express / MySQL / Sequelize  
->React / Recoil / React-Query    
->
->- ERD 설계
->
-><img width="764" src="https://user-images.githubusercontent.com/116782318/221226448-e03cc19f-1242-492b-8663-7688ef9b2b6d.png">
->
+>개발 기간: 2023.02.11 ~ 2023.02.25 
+
+</br>
+
+#### 기술 스택  
+Node.js / Express / MySQL / Sequelize  
+React / Recoil / React-Query    
+
+</br>
+
+#### ERD 설계
+<img width="500" src="https://user-images.githubusercontent.com/116782318/221226448-e03cc19f-1242-492b-8663-7688ef9b2b6d.png">
+
+</br>
+
+#### ::API 명세서
+Click 👉 [API 명세 전체보기 링크](https://principled-gorgonzola-3a1.notion.site/bfa856609ba0495785dbb2fafafd27cc?v=320eb5aa9d4949cdae088bcbdee6b23f)
+
+
+<img src="https://user-images.githubusercontent.com/116782318/226643275-0563c64e-670a-4026-a79d-4f1dbea46b63.png" width="500px"><img src="https://user-images.githubusercontent.com/116782318/226643320-fb8bcee7-99c9-4496-bdde-a87b4ecde100.png" width="500px">
+<img src="https://user-images.githubusercontent.com/116782318/226643368-a8df706d-cfec-4ec9-ad78-af243e113c13.png" width="500px"><img src="https://user-images.githubusercontent.com/116782318/226643348-9dc94ac6-20cb-46fd-a542-7e347530084d.png" width="500px">
+</br>
 >[프로젝트 상세 설명](https://github.com/nyondoo/momoa) 참고
 
 ---
