@@ -122,6 +122,10 @@ gitHub: https://github.com/nyondoo
 
 </br>
 
+### :point_right: [프로젝트 상세 설명](https://github.com/nyondoo/Check-Work)  👈 참고 
+
+</br>
+
 ---
 
 ### 3. MileEASY
@@ -177,4 +181,4 @@ gitHub: https://github.com/nyondoo
 
 </br>
 
-
+---
