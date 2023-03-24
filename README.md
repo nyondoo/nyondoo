@@ -70,7 +70,7 @@ gitHub: https://github.com/nyondoo
 </br>
 
 ### ⚙️ERD 설계
-<img width="500" src="https://user-images.githubusercontent.com/116782318/221226448-e03cc19f-1242-492b-8663-7688ef9b2b6d.png">
+<img width="700" src="https://user-images.githubusercontent.com/116782318/221226448-e03cc19f-1242-492b-8663-7688ef9b2b6d.png">
 
 </br>
 
@@ -125,18 +125,56 @@ gitHub: https://github.com/nyondoo
 ---
 
 ### 3. MileEASY
->MBTI별 여행지 추천 서비스 (팀 프로젝트)  
 >
->- DEMO : (http://43.201.17.158:8080)
+>`DEMO` http://43.201.17.158:8080
 >
->- 개발 기간: 2022.12.08 ~ 2022.12.29
+>`프로젝트 개요` MBTI별 여행지 추천 서비스 (백엔드 2명, 프론트엔드 2명)
+> 
+>`개발 기간` 2022.12.08 ~ 2022.12.29
 >  
->- 기술 스택:  
->JavaScript(ES6)  / EJS  
->Node.js / Express / MySQL / Sequelize
->  
->[프로젝트 상세 설명](https://github.com/nyondoo/mileeasy.git) 참고
+>:point_right: [프로젝트 상세 설명](https://github.com/nyondoo/mileeasy.git) 보러가기 👈 
+>
+
+</br>
+
+### :hammer:사용 기술  
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+  </br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  
+</br>
+
+### :bar_chart: 구현기능 및 프로젝트 기여도
+`구현 기능`
+- DB 설계
+- MBTI테스트 관련 API 개발
+- MBTI유형 도출 로직 설계
+- 방명록(게시판) API 개발
+
+`프로젝트 기여도`
+**30%**
+
+</br>
+
+### ⚙️ERD 설계
+<img width="700" alt="스크린샷 2023-03-06 오후 4 33 06" src="https://user-images.githubusercontent.com/116782318/223166576-140975a2-c39d-45c1-a546-78131da0900e.png">
 
 
+</br>
+
+### :bulb:API 명세서
+👉 [API 명세 전체보기](https://bejewled-bandicoot-eb8.notion.site/API-51487cf2f5a54298902dc386aae4f2cf) 👈
+
+<img width="700" alt="스크린샷 2023-03-25 오전 1 07 41" src="https://user-images.githubusercontent.com/116782318/227580257-26818533-df99-477a-b692-a6e2943506fc.png">
+<img width="700" alt="스크린샷 2023-03-25 오전 1 07 54" src="https://user-images.githubusercontent.com/116782318/227580272-7a9ac9ae-e72a-4cf1-b90f-4f37cddb3a88.png">
+
+</br>
+
+### :point_right: [프로젝트 상세 설명](https://github.com/nyondoo/mileeasy.git)  👈 참고 
+
+</br>
 
 
