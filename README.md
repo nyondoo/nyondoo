@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&&fontSize=70&fontAlign=90&text=Hello&fontAlignY=40&height=300&desc=Portfolio_Hyunsoo&descAlignY=55&descAlign=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello&fontSize=55&fontAlign=83&desc=Portfolio_Hyunsoo&descSize=25&descAlign=80&descAlignY=63" width=100%/>
 
 <div align=center>
 <h3>:book: Intro</h3>
