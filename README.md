@@ -92,7 +92,7 @@ gitHub: https://github.com/nyondoo
 </br>
 
 ### :bulb:API 명세서
-👉 [API 명세 전체보기](https://principled-gorgonzola-3a1.notion.site/bfa856609ba0495785dbb2fafafd27cc?v=320eb5aa9d4949cdae088bcbdee6b23f) 👈
+👉 [API 명세 전체보기](https://drive.google.com/file/d/12UsoXMReP2HVf3ARCQ-O7Xzx_Whxa5Ss/view?usp=sharing) 👈
 
 
 <img src="https://user-images.githubusercontent.com/116782318/226643275-0563c64e-670a-4026-a79d-4f1dbea46b63.png" width="500px"><img src="https://user-images.githubusercontent.com/116782318/226643320-fb8bcee7-99c9-4496-bdde-a87b4ecde100.png" width="500px">
