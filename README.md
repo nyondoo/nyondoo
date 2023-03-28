@@ -199,7 +199,7 @@ gitHub: https://github.com/nyondoo
 </br>
 
 ### :bulb:API 명세서
-👉 [API 명세 전체보기](https://bejewled-bandicoot-eb8.notion.site/API-51487cf2f5a54298902dc386aae4f2cf) 👈
+👉 [API 명세 전체보기](https://drive.google.com/file/d/1RicJI6am5wg86hoJGNi0WcOB9BuIoQn8/view?usp=sharing) 👈
 
 <img width="700" alt="스크린샷 2023-03-25 오전 1 07 41" src="https://user-images.githubusercontent.com/116782318/227580257-26818533-df99-477a-b692-a6e2943506fc.png">
 <img width="700" alt="스크린샷 2023-03-25 오전 1 07 54" src="https://user-images.githubusercontent.com/116782318/227580272-7a9ac9ae-e72a-4cf1-b90f-4f37cddb3a88.png">
