@@ -95,8 +95,8 @@ gitHub: https://github.com/nyondoo
 👉 [API 명세 전체보기](https://drive.google.com/file/d/12UsoXMReP2HVf3ARCQ-O7Xzx_Whxa5Ss/view?usp=sharing) 👈
 
 
-<img src="https://user-images.githubusercontent.com/116782318/226643275-0563c64e-670a-4026-a79d-4f1dbea46b63.png" width="500px"><img src="https://user-images.githubusercontent.com/116782318/226643320-fb8bcee7-99c9-4496-bdde-a87b4ecde100.png" width="500px">
-<img src="https://user-images.githubusercontent.com/116782318/226643368-a8df706d-cfec-4ec9-ad78-af243e113c13.png" width="500px"><img src="https://user-images.githubusercontent.com/116782318/226643348-9dc94ac6-20cb-46fd-a542-7e347530084d.png" width="500px">
+<img src="https://user-images.githubusercontent.com/116782318/226643275-0563c64e-670a-4026-a79d-4f1dbea46b63.png" width="700px">
+<img src="https://user-images.githubusercontent.com/116782318/226643368-a8df706d-cfec-4ec9-ad78-af243e113c13.png" width="700px">
 
 </br>
 
