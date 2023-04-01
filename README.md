@@ -148,7 +148,11 @@ gitHub: https://github.com/nyondoo
 
 </br>
 
-### :bulb:API 명세서
+### :bulb:ERD&API 명세서
+<img width="110" alt="image" src="https://user-images.githubusercontent.com/116782318/223374838-e04d861b-87e1-45eb-9c41-c14ff0c6b496.png">
+
+</br>
+
 👉 [API 명세 전체보기](https://drive.google.com/file/d/1R8sJkDq3u-_b3AbIFfOcrFSoq8vKlj2N/view?usp=sharing) 👈
 
 <img width="800" alt="스크린샷 2023-03-25 오전 1 25 17" src="https://user-images.githubusercontent.com/116782318/227584565-2e071d2c-411f-4524-866c-137eb7d0bbb7.png">
@@ -208,6 +212,12 @@ gitHub: https://github.com/nyondoo
 
 <img width="700" alt="스크린샷 2023-03-25 오전 1 07 41" src="https://user-images.githubusercontent.com/116782318/227580257-26818533-df99-477a-b692-a6e2943506fc.png">
 <img width="700" alt="스크린샷 2023-03-25 오전 1 07 54" src="https://user-images.githubusercontent.com/116782318/227580272-7a9ac9ae-e72a-4cf1-b90f-4f37cddb3a88.png">
+
+</br>
+
+### :flashlight: 구현 기능 상세설명
+1. [MBTI 테스트](https://github.com/nyondoo/mileeasy#51-mbti-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+2. [방명록 (유저간 여행지 추천)](https://github.com/nyondoo/mileeasy#52-%EB%B0%A9%EB%AA%85%EB%A1%9D-%EC%9C%A0%EC%A0%80%EA%B0%84-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C)
 
 </br>
 
