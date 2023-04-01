@@ -85,7 +85,7 @@ gitHub: https://github.com/nyondoo
 </br>
 
 ### ⚙️ERD 설계
-<img width="700" src="https://user-images.githubusercontent.com/116782318/221226448-e03cc19f-1242-492b-8663-7688ef9b2b6d.png">
+<img width="800" src="https://user-images.githubusercontent.com/116782318/221226448-e03cc19f-1242-492b-8663-7688ef9b2b6d.png">
 
 </br>
 
@@ -93,8 +93,10 @@ gitHub: https://github.com/nyondoo
 👉 [API 명세 전체보기](https://drive.google.com/file/d/12UsoXMReP2HVf3ARCQ-O7Xzx_Whxa5Ss/view?usp=sharing) 👈
 
 
-<img src="https://user-images.githubusercontent.com/116782318/226643275-0563c64e-670a-4026-a79d-4f1dbea46b63.png" width="700px">
-<img src="https://user-images.githubusercontent.com/116782318/226643368-a8df706d-cfec-4ec9-ad78-af243e113c13.png" width="700px">
+<img src="https://user-images.githubusercontent.com/116782318/226643275-0563c64e-670a-4026-a79d-4f1dbea46b63.png" width="800px">
+<img src="https://user-images.githubusercontent.com/116782318/226643320-fb8bcee7-99c9-4496-bdde-a87b4ecde100.png" width="800px">
+<img src="https://user-images.githubusercontent.com/116782318/226643348-9dc94ac6-20cb-46fd-a542-7e347530084d.png" width="800px">
+<img src="https://user-images.githubusercontent.com/116782318/226643368-a8df706d-cfec-4ec9-ad78-af243e113c13.png" width="800px">
 
 </br>
 
@@ -104,9 +106,7 @@ gitHub: https://github.com/nyondoo
 
 ---
 
-### 2. 출근도장
->
->####  `DEMO` http://43.201.17.158:3000
+### 2. [출근도장](http://43.201.17.158:3000)
 >
 >####  `프로젝트 개요` 아르바이트 출근&월급 관리 (개인 프로젝트) 
 > 
@@ -143,7 +143,7 @@ gitHub: https://github.com/nyondoo
 ### :bulb:API 명세서
 👉 [API 명세 전체보기](https://drive.google.com/file/d/1R8sJkDq3u-_b3AbIFfOcrFSoq8vKlj2N/view?usp=sharing) 👈
 
-<img width="700" alt="스크린샷 2023-03-25 오전 1 25 17" src="https://user-images.githubusercontent.com/116782318/227584565-2e071d2c-411f-4524-866c-137eb7d0bbb7.png">
+<img width="800" alt="스크린샷 2023-03-25 오전 1 25 17" src="https://user-images.githubusercontent.com/116782318/227584565-2e071d2c-411f-4524-866c-137eb7d0bbb7.png">
 
 </br>
 
@@ -153,9 +153,7 @@ gitHub: https://github.com/nyondoo
 
 ---
 
-### 3. MileEASY
->
->####  `DEMO` http://43.201.17.158:8080
+### 3. [MileEASY](http://43.201.17.158:8080)
 >
 >####  `프로젝트 개요` MBTI별 여행지 추천 서비스 (백엔드 2명, 프론트엔드 2명)
 > 
