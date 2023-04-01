@@ -49,9 +49,7 @@ gitHub: https://github.com/nyondoo
 
 ## :open_file_folder: Projects
 
-### 1. Momoa 
->
->#### `DEMO`  http://43.201.17.158:3001
+### 1. [Momoa](http://43.201.17.158:3001) 
 >
 >#### `프로젝트 개요`  공유 가계부 (프론트엔드 2명, 백엔드 2명)  
 >
