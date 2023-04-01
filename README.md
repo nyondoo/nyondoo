@@ -100,7 +100,11 @@ gitHub: https://github.com/nyondoo
 
 </br>
 
-### :point_right: [프로젝트 상세 설명](https://github.com/nyondoo/momoa)  👈 참고 
+### 구현 기능 상세설명
+1. [카카오 로그인 api](#사용-기술)
+2. 회원가입 기능
+3. 가계부 그래프 데이터 가공
+4. 가계부 공유 및 관련 기능
 
 </br>
 
