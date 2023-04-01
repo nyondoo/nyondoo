@@ -101,7 +101,7 @@ gitHub: https://github.com/nyondoo
 </br>
 
 ### 구현 기능 상세설명
-1. [카카오 로그인 api](#사용-기술)
+1. [카카오 로그인 api](https://github.com/nyondoo/momoa#5-%EC%A3%BC%EC%9A%94-%EA%B5%AC%ED%98%84-%EA%B8%B0%EB%8A%A5)
 2. 회원가입 기능
 3. 가계부 그래프 데이터 가공
 4. 가계부 공유 및 관련 기능
