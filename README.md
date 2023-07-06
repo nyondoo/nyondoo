@@ -39,7 +39,7 @@ kmooc 대학 강의를 들으며 전공 지식을 공부하며 좁은 저의 시
 </br>
 
 <h3>:memo: Studying</h3>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   
 </br>
